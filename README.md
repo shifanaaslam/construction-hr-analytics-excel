@@ -79,4 +79,4 @@ The Construction HR Analytics project strengthened my practical skills in Excel,
 
 Aspiring Data Analyst | Excel | Power BI | SQL | Python
 
-[www.linkedin.com/in/shifanaaslam-p] | [https://github.com/shifanaaslam]
+www.linkedin.com/in/shifanaaslam-p | https://github.com/shifanaaslam
