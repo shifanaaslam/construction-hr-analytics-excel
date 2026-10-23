@@ -36,26 +36,26 @@ Analyses employee headcount, salary costs, payroll trends, overtime payments, em
 
 ### 2. Attrition Analysis
 Examines high- and critical-risk employee groups across departments, countries, employment types, tenure groups, and performance bands.
-[View Attrition Analysis Dashboard](./attrition-analysis.png)
+![View Attrition Analysis Dashboard](./attrition-analysis.png.png)
 
 ### 3. Attendance & Workforce Productivity
 Evaluates attendance status, working hours, shifts, work locations, and departmental overtime.
-[View Attendance & Workforce Productivity Dashboard](./attendance-productivity.png)
+![View Attendance & Workforce Productivity Dashboard](./attendance-productivity.png)
 
 
 ### 4. Training & Performance Analysis
 Explores training participation, training costs, pass rates, performance ratings, bonuses, and salary increments.
-[View Training & Performance Dashboard](./training-performance.png)
+![View Training & Performance Dashboard](./training-performance.png)
 
 
 ### 5. Recruitment Analysis
 Examines applications by department, recruitment sources, recruitment stages, monthly trends, time to hire, and offered salaries.
-[View Recruitment Analysis Dashboard](./recruitment-analysis.png)
+![View Recruitment Analysis Dashboard](./recruitment-analysis.png)
 
 
 ### 6. Safety Analysis
 Analyses incident severity, monthly incident trends, incident locations, lost working days, reported root causes, and incident costs.
-[View Safety Analysis Dashboard](./safety-analysis.png)
+![View Safety Analysis Dashboard](./safety-analysis.png)
 
 ## Key Insights
 
@@ -67,7 +67,7 @@ Analyses incident severity, monthly incident trends, incident locations, lost wo
 - Highlighted frequently reported workplace incident causes and departments requiring further investigation.
 
 These findings indicate areas for further investigation and potential improvements in HR planning, employee retention, operational efficiency, and workplace safety.
-[View Project Report](./report.png)
+![View Project Report](./report.png)
 
 ## Project Files
 
