@@ -32,21 +32,30 @@ The main objective is to transform raw HR data into meaningful insights that sup
 
 ### 1. Workforce & Payroll Overview
 Analyses employee headcount, salary costs, payroll trends, overtime payments, employment types, and visa status.
+[View Workforce & Payroll Dashboard](./workforce-payroll.png)
 
 ### 2. Attrition Analysis
 Examines high- and critical-risk employee groups across departments, countries, employment types, tenure groups, and performance bands.
+[View Attrition Analysis Dashboard](./attrition-analysis.png)
 
 ### 3. Attendance & Workforce Productivity
 Evaluates attendance status, working hours, shifts, work locations, and departmental overtime.
+[View Attendance & Workforce Productivity Dashboard](./attendance-productivity.png)
+
 
 ### 4. Training & Performance Analysis
 Explores training participation, training costs, pass rates, performance ratings, bonuses, and salary increments.
+[View Training & Performance Dashboard](./training-performance.png)
+
 
 ### 5. Recruitment Analysis
 Examines applications by department, recruitment sources, recruitment stages, monthly trends, time to hire, and offered salaries.
+[View Recruitment Analysis Dashboard](./recruitment-analysis.png)
+
 
 ### 6. Safety Analysis
 Analyses incident severity, monthly incident trends, incident locations, lost working days, reported root causes, and incident costs.
+[View Safety Analysis Dashboard](./safety-analysis.png)
 
 ## Key Insights
 
@@ -58,14 +67,16 @@ Analyses incident severity, monthly incident trends, incident locations, lost wo
 - Highlighted frequently reported workplace incident causes and departments requiring further investigation.
 
 These findings indicate areas for further investigation and potential improvements in HR planning, employee retention, operational efficiency, and workplace safety.
+[View Project Report](./report.png)
 
 ## Project Files
 
 - **Excel Workbook:** ## Project Files
 
-- **Excel Workbook:** [Click here to download the Construction HR Analytics Project](./Construction%20HR%20Analytics%20Project%20%20Shifana%20P%20Excel2.xlsm)
-- **Dashboard Screenshots:** Available in the `dashboards` folder.
-- **Project Presentation:** Available in the `presentation` folder, if included.
+- **Excel Workbook:** [Download Construction HR Analytics Project (.xlsm)](./Construction%20HR%20Analytics%20Project%20%20Shifana%20P%20Excel2.xlsm)
+
+*Note: Download the workbook and open it using Microsoft Excel desktop to explore the interactive dashboards and VBA functionality.*
+
 
 ## Business Value
 
