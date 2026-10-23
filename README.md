@@ -61,7 +61,9 @@ These findings indicate areas for further investigation and potential improvemen
 
 ## Project Files
 
-- **Excel Workbook:** [Add workbook link or filename]
+- **Excel Workbook:** ## Project Files
+
+- **Excel Workbook:** [Click here to download the Construction HR Analytics Project](./Construction%20HR%20Analytics%20Project%20%20Shifana%20P%20Excel2.xlsm)
 - **Dashboard Screenshots:** Available in the `dashboards` folder.
 - **Project Presentation:** Available in the `presentation` folder, if included.
 
