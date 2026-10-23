@@ -32,7 +32,7 @@ The main objective is to transform raw HR data into meaningful insights that sup
 
 ### 1. Workforce & Payroll Overview
 Analyses employee headcount, salary costs, payroll trends, overtime payments, employment types, and visa status.
-![View Workforce & Payroll Dashboard](./workforce-payroll.png)
+![View Workforce & Payroll Dashboard](workforce-payroll.png.png)
 
 ### 2. Attrition Analysis
 Examines high- and critical-risk employee groups across departments, countries, employment types, tenure groups, and performance bands.
